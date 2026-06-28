@@ -1,4 +1,4 @@
 <h1>Regfitration App</h1>
 ## screenshots
 
-![Home Screen](screenshots/Screenshot 2026-06-22 151427.png)
+![Home Screen][screenshots/Screenshot 2026-06-22 151427.png]
